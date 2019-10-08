@@ -1,10 +1,10 @@
-# Preface
+# Предисловие
 
-Welcome to the Application Security Verification Standard (ASVS) version 4.0. The ASVS is a community-driven effort to establish a framework of security requirements and controls that focus on defining the functional and non-functional security controls required when designing, developing and testing modern web applications and web services.
+Представляем Стандарт подтверждения безопасности приложений (ASVS) версии 4.0. Данный стандарт является попыткой сообщества выделить основные требования, позволяющие определить функциональные и нефункциональные параметры безопасности для их использования при проектировании, разработке и тестировании современных веб-приложений и веб-служб.
 
-ASVS v4.0 is the culmination of community effort and industry feedback over the last decade. We have attempted to make it easier to adopt the ASVS for a variety of different use cases throughout any secure software development lifecycle.
+ASVS v4.0 — это результат работы сообщества и обратной связи отрасли за последние десять лет. Мы постарались упростить процесс адаптации ASVS к различным сценариям его применения на протяжении всего жизненного цикла безопасной разработки ПО.
 
-We expect that there will most likely never be 100% agreement on the contents of any web application standard, including the ASVS. Risk analysis is always subjective to some extent, which creates a challenge when attempting to generalize in a one-size-fits-all standard. However, we hope that the latest updates made in this version are a step in the right direction, and enhance the concepts introduced in this critical industry standard.
+Мы полагаем, что с большой вероятностью никогда не будет 100% согласия по какому-либо стандарту, касающемуся веб-приложений, включая ASVS. Анализ рисков всегда субъективен до некоторой степени и представляет собой сложную задачу в виде попытки создания одного, общего для всех стандарта. Однако мы надеемся, что последние изменения являются шагом в верном направлении и улучшают концепции, представленные в этом важном отраслевом стандарте.
 
 ## What's new in 4.0
 
